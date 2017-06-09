@@ -1,0 +1,2 @@
+<?php  $con = mysqli_connect('localhost', 'llenopor_main', 'mortadelo', 'llenopor_main', 3306) or die("Error " . mysqli_error($con)); ?>
+<?php //$con = mysqli_connect('localhost', 'vallsur_user', 'user4321', 'vallsur', 3306) or die("Error " . mysqli_error($con)); ?>
